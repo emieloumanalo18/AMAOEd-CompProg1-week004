@@ -1,0 +1,398 @@
+[
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=mens+jacket+&_sacat=0&LH_TitleDesc=0&_odkw=dress&_osacat=0",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Jacket",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=mens+jeans&_sacat=0&LH_TitleDesc=0&_odkw=dress&_osacat=0",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Jeans",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=mens+pants&_sacat=0&LH_TitleDesc=0&_odkw=mens+jeans&_osacat=0&LH_PrefLoc=2",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Pants",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=mens+shorts+&_sacat=0&LH_TitleDesc=0&_odkw=mens+pants&_osacat=0&LH_PrefLoc=2",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Shorts",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=mens+shirts++&_sacat=0",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Shirts",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=mens+belts+&_sacat=0&LH_TitleDesc=0&_odkw=mens+shirts++&_osacat=0",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Belt",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=woman+dress&_sacat=0&LH_TitleDesc=0&_odkw=woman+dress+&_osacat=0&LH_PrefLoc=2",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Dress",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=woman+jeans+&_sacat=0&LH_TitleDesc=0&_odkw=woman+dress&_osacat=0&LH_PrefLoc=2",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Jeans",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=woman+pants+&_sacat=0&LH_TitleDesc=0&_odkw=woman+jeans+&_osacat=0&LH_PrefLoc=2",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Pants",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=woman+shirts+&_sacat=0&LH_TitleDesc=0&_odkw=woman+pants+&_osacat=0&LH_PrefLoc=2",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Shirts",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=woman+shorts&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=woman+shots&LH_PrefLoc=2",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Shorts",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.ebay.ph/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=woman+belt+&_sacat=0&LH_TitleDesc=0&_odkw=woman+shorts&_osacat=0&LH_PrefLoc=2",
+                "main_container": [
+                        "li",
+                        "s-item s-item__pl-on-bottom"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "div",
+                                "s-item__title"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "s-item__link"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-item__image-img"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "s-item__price"
+                        ]
+                ],
+                "Store": "eBay",
+                "item_len": 10,
+                "Category": "Belt",
+                "Gender": "Woman"
+        }
+]

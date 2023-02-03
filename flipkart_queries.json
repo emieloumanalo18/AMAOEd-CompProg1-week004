@@ -1,0 +1,365 @@
+[
+        {
+                "url": "https://www.flipkart.com/search?q=jacket%20for%20man&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Jacket",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=jeans%20for%20man&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Jeans",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=pants%20for%20man&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Pants",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=shorts%20for%20man&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Shorts",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=shirts%20for%20man&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Shirts",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=beilt%20for%20man&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Belt",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=dress%20for%20women&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Dress",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=jeans%20for%20women&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Jeans",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=pants%20for%20women&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Pants",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=shirts%20for%20women&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Shirts",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=belt%20for%20woman&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Belt",
+                "Gender": "Woman"
+        }
+]

@@ -1,0 +1,365 @@
+[
+        {
+                "url": "https://www.amazon.com/s?k=jacket+for+men&sprefix=jacket+%2Caps%2C393&ref=nb_sb_ss_ts-doa-p_1_7",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Jacket",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=jeans+for+man&crid=3QID7KJ7BE9IP&sprefix=jeans+for+man%2Caps%2C372&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Jeans",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=shorts+for+man&crid=2SK59EPW7SNCL&sprefix=shorts+for+man%2Caps%2C418&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Shorts",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=shirts+for+man&crid=1ILF6BAU0OO43&sprefix=shirts+for+man%2Caps%2C668&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Shirts",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=belt+for+man&crid=1X13ZQ64Z8M5T&sprefix=belt+for+man%2Caps%2C536&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Belt",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=womans+dress&crid=Y66AYH804CYJ&sprefix=womans+dress%2Caps%2C459&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Dress",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=jeans+for+women&sprefix=jeans+for+%2Caps%2C825&ref=nb_sb_ss_ts-doa-p_1_10",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Jeans",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=pants+for+women&crid=3PZEBVJF5SLB8&sprefix=pants+for+women%2Caps%2C525&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Pants",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=shirts+for+women&crid=28YWPPOIUUI3N&sprefix=shirts+for+women%2Caps%2C444&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Shirts",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=shorts+for+women&crid=T58GQ7XD1C8Y&sprefix=shirts+for+women%2Caps%2C551&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Shorts",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=belts+for+women&sprefix=belt%2Caps%2C501&ref=nb_sb_ss_ts-doa-p_1_4",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Belts",
+                "Gender": "Woman"
+        }
+]
