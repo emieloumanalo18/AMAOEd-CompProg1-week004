@@ -27,6 +27,10 @@
                                 "_30jeq3"
                         ]
                 ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
+                ],
                 "Store": "Flipkart",
                 "item_len": 10,
                 "Category": "Jacket",
@@ -59,6 +63,10 @@
                                 "div",
                                 "_30jeq3"
                         ]
+                ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
                 ],
                 "Store": "Flipkart",
                 "item_len": 10,
@@ -93,6 +101,10 @@
                                 "_30jeq3"
                         ]
                 ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
+                ],
                 "Store": "Flipkart",
                 "item_len": 10,
                 "Category": "Pants",
@@ -125,6 +137,10 @@
                                 "div",
                                 "_30jeq3"
                         ]
+                ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
                 ],
                 "Store": "Flipkart",
                 "item_len": 10,
@@ -159,6 +175,10 @@
                                 "_30jeq3"
                         ]
                 ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
+                ],
                 "Store": "Flipkart",
                 "item_len": 10,
                 "Category": "Shirts",
@@ -191,6 +211,10 @@
                                 "div",
                                 "_30jeq3"
                         ]
+                ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
                 ],
                 "Store": "Flipkart",
                 "item_len": 10,
@@ -225,6 +249,10 @@
                                 "_30jeq3"
                         ]
                 ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
+                ],
                 "Store": "Flipkart",
                 "item_len": 10,
                 "Category": "Dress",
@@ -257,6 +285,10 @@
                                 "div",
                                 "_30jeq3"
                         ]
+                ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
                 ],
                 "Store": "Flipkart",
                 "item_len": 10,
@@ -291,6 +323,10 @@
                                 "_30jeq3"
                         ]
                 ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
+                ],
                 "Store": "Flipkart",
                 "item_len": 10,
                 "Category": "Pants",
@@ -323,6 +359,10 @@
                                 "div",
                                 "_30jeq3"
                         ]
+                ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
                 ],
                 "Store": "Flipkart",
                 "item_len": 10,
@@ -357,9 +397,87 @@
                                 "_30jeq3"
                         ]
                 ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
+                ],
                 "Store": "Flipkart",
                 "item_len": 10,
                 "Category": "Belt",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=skirts+for+women+wear&sid=clo%2Cvua%2Ciku%2Cw5t&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_7_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_7_na_na_na&as-pos=1&as-type=RECENT&suggestionId=skirts+for+women+wear%7CWomen%27s+Skirts&requestId=1c59c8d1-5857-4a11-a8d2-01d9d5aeae90&as-backfill=on",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Skirt",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.flipkart.com/search?q=shortsfor%20women%20wear&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+                "main_container": [
+                        "div",
+                        "_1xHGtK _373qXS"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "a",
+                                "IRpwTa"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "_2UzuFa"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "_2r_T1I"
+                        ],
+                        [
+                                "Price",
+                                "div",
+                                "_30jeq3"
+                        ]
+                ],
+                "Ratings": [
+                        "div",
+                        "_3LWZlK _3uSWvT"
+                ],
+                "Store": "Flipkart",
+                "item_len": 10,
+                "Category": "Short",
                 "Gender": "Woman"
         }
 ]
