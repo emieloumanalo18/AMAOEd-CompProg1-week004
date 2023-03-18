@@ -1,0 +1,132 @@
+[
+        {
+                "Fashion_items": [
+                        [
+                                "Modern_Style"
+                        ],
+                        [
+                                "Bags",
+                                "Casual t-shirt",
+                                "Printed t-shirt",
+                                "Summer Clothes",
+                                "Swimwear",
+                                "Nightdress"
+                        ]
+                ],
+                "Gender": "woman"
+        },
+        {
+                "Fashion_items": [
+                        [
+                                "Modern_Style"
+                        ],
+                        [
+                                "Bags",
+                                "Casual t-shirt",
+                                "Printed t-shirt",
+                                "Summer Clothes",
+                                "Swimwear"
+                        ]
+                ],
+                "Gender": "men"
+        },
+        {
+                "Fashion_items": [
+                        [
+                                "Sport_Style"
+                        ],
+                        [
+                                "Sports bra",
+                                "Sport shoes",
+                                "Sports bag",
+                                "Activewear",
+                                "Trunks",
+                                "Sport headband",
+                                "Jogging Pants"
+                        ]
+                ],
+                "Gender": "woman"
+        },
+        {
+                "Fashion_items": [
+                        [
+                                "Sport_Style"
+                        ],
+                        [
+                                "Sport shoes",
+                                "Sports bag",
+                                "Activewear",
+                                "Trunks",
+                                "Sport headband",
+                                "Jogging Pants"
+                        ]
+                ],
+                "Gender": "men"
+        },
+        {
+                "Fashion_items": [
+                        [
+                                "Stylish_Style"
+                        ],
+                        [
+                                "Dress",
+                                "Jeans",
+                                "Shirts",
+                                "Shorts",
+                                "Party dress",
+                                "Winter Coats",
+                                "Trousers",
+                                "Skirts"
+                        ]
+                ],
+                "Gender": "woman"
+        },
+        {
+                "Fashion_items": [
+                        [
+                                "Stylish_Style"
+                        ],
+                        [
+                                "Jeans",
+                                "Shirts",
+                                "Shorts",
+                                "Party dress",
+                                "Winter Coats",
+                                "Trousers"
+                        ]
+                ],
+                "Gender": "men"
+        },
+        {
+                "Fashion_items": [
+                        [
+                                "Creative_Style"
+                        ],
+                        [
+                                "Boots",
+                                "Jacket",
+                                "Polo Shirt",
+                                "Vest",
+                                "Coats",
+                                "Pants"
+                        ]
+                ],
+                "Gender": "woman"
+        },
+        {
+                "Fashion_items": [
+                        [
+                                "Creative_Style"
+                        ],
+                        [
+                                "Boots",
+                                "Jacket",
+                                "Polo Shirt",
+                                "Vest",
+                                "Coats",
+                                "Pants"
+                        ]
+                ],
+                "Gender": "men"
+        }
+]
