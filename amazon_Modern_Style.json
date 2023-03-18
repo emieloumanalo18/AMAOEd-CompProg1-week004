@@ -1,0 +1,420 @@
+[
+        {
+                "url": "https://www.amazon.com/s?k=bags+for+woman&crid=2G74R3KOUZ1S8&sprefix=bags+for+woma%2Caps%2C305&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Bags",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=casual+t-shirt+for+woman&crid=3J9KC32E5RGDP&sprefix=casual+t-shirtfor+woman%2Caps%2C329&ref=nb_sb_noss",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Casual t-shirt",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=printed+t-shirt+for+woman&crid=P77VQ1GFSWRK&sprefix=printedt-shirt+for+woman%2Caps%2C309&ref=nb_sb_noss",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Printed t-shirt",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=summer+cloth+for+woman&crid=34WGXK3QMBRKP&sprefix=summer+cloth+for+woman%2Caps%2C322&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Summer Cloth",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=swimwear+for+woman&crid=3EF435IKUJ5EH&sprefix=swimwear+for+woman%2Caps%2C326&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Swimwear",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=night+dress+for+woman&crid=M3K9R4S8H5AH&sprefix=night+dressfor+woman%2Caps%2C317&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Nightdress",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=bags+for+men&crid=2VBUFBU5UQP8B&sprefix=bags+for+men%2Caps%2C328&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Bags",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=casual+t-shirt+for+men&crid=21HEPZ7CA5B1I&sprefix=casual+t-shirt+for+men%2Caps%2C337&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Casual t-shirt",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=printed+t-shirt+for+men&crid=2H7V0SXS06PIN&sprefix=printedt-shirt+for+men%2Caps%2C367&ref=nb_sb_noss",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Printed t-shirt",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=summer+cloth+for+men&crid=16R88T1GIRD46&sprefix=summer+cloth+for+men%2Caps%2C304&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Summer Cloth",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=swimwear+for+men&crid=335E7UBQTTJ1Q&sprefix=swimwear+for+men%2Caps%2C314&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Swimwear",
+                "Gender": "Men"
+        }
+]

@@ -1,0 +1,496 @@
+[
+        {
+                "url": "https://www.amazon.com/s?k=sport+bra+for+woman&ref=nb_sb_noss",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Sports bra",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=sport+shoes+for+woman&crid=39CBU1QXNDINL&sprefix=sport+shoe+for+woman%2Caps%2C383&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Sports shoes",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=sport+bag+for+woman&crid=3M8W3O11N8AIR&sprefix=sport+bag+for+women%2Caps%2C335&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Sports bag",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=activewear+for+woman&crid=35UJGPB8H6820&sprefix=activewearfor+woman%2Caps%2C318&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Activewear",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=trunks+for+woman&crid=U4R0AZHYMR32&sprefix=trunks+for+woman%2Caps%2C334&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Trunks",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=sport+headband+for+woman&crid=VATDZAHG41VZ&sprefix=sport+headban+for+woman%2Caps%2C331&ref=nb_sb_noss",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Sports headband",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=jugging+for+woman&crid=1AA0AL2JQC7HW&sprefix=jugging+for+woman%2Caps%2C332&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Jogging Pants",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=sport+shoes+for+men&crid=FSCB22CE4D7E&sprefix=sport+shoes+for+me%2Caps%2C366&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Sports shoes",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=sport+bags+for+men&crid=3665ZSIEV50GK&sprefix=sport+bag+for+men%2Caps%2C328&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Sports bag",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=active+wear+for+men&crid=GQIMEFHCSRG&sprefix=active+wear+for+men%2Caps%2C330&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Activewear",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=trunks+for+men&crid=2OYFFZRL6SJX3&sprefix=trunks+for+men%2Caps%2C328&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Trunks",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=sport+headband+for+men&crid=1JJMLVSF4ZEJM&sprefix=sport+headbandfor+men%2Caps%2C316&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Sports headband",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=jogging+pants+for+men&crid=2GDZ13EMJ9CCI&sprefix=jogging+pants+for+men%2Caps%2C326&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Jogging Pants",
+                "Gender": "men"
+        }
+]

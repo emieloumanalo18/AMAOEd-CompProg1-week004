@@ -1,0 +1,534 @@
+[
+        {
+                "url": "https://www.amazon.com/s?k=dress+for+women&crid=3I02JL9C5Q0I1&sprefix=dress+for+women%2Caps%2C332&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Dress",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=jeans+for+women&crid=377HIBFKKBE8L&sprefix=jeansfor+women%2Caps%2C337&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Jeans",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=shirt+for+women&crid=2QE9ZBN9DPN4P&sprefix=shirtfor+women%2Caps%2C327&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Shirt",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=short+for+women&crid=2MHVC7IUOJUYN&sprefix=short+for+women%2Caps%2C355&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Shorts",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=party+dress+for+women&crid=KX59MXK6OI54&sprefix=party+dre+for+women%2Caps%2C353&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Party dress",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=winter+coats+for+women&crid=31TUMBEREGJG6&sprefix=winter+coatsfor+women%2Caps%2C312&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Winter Coats",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=trouser+for+women&crid=2GYSXAM5Q33JC&sprefix=trouser+for+women%2Caps%2C336&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Trouser",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=skirt+for+women&crid=3E4AH7NPM4UE2&sprefix=skirt+for+women%2Caps%2C336&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Skirt",
+                "Gender": "Woman"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=jeans+for+men&crid=27IQFVR4AKCSR&sprefix=jeans+for+me%2Caps%2C329&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Jeans",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=shirt+for+men&crid=1HVUSYPK9UXTW&sprefix=shirt+for+men%2Caps%2C329&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Shirt",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=short+for+men&crid=124URTLMWZR3Q&sprefix=short+for+men%2Caps%2C312&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Shorts",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=party+wear+for+men&crid=1XKSE279ATKGT&sprefix=party+wear+for+men%2Caps%2C321&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Party wear",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=winter+coats+for+men&crid=1RPOOPIIO27OA&sprefix=winter+coatsfor+men%2Caps%2C314&ref=nb_sb_noss_2",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Winter Coats",
+                "Gender": "Men"
+        },
+        {
+                "url": "https://www.amazon.com/s?k=trouser+for+men&crid=3SVW5160BU6BM&sprefix=trouser+for+men%2Caps%2C334&ref=nb_sb_noss_1",
+                "main_container": [
+                        "div",
+                        "a-section a-spacing-base"
+                ],
+                "fetch_data_item": [
+                        [
+                                "Name",
+                                "span",
+                                "a-size-base-plus a-color-base a-text-normal"
+                        ],
+                        [
+                                "Link",
+                                "a",
+                                "a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal"
+                        ],
+                        [
+                                "Image",
+                                "img",
+                                "s-image"
+                        ],
+                        [
+                                "Price",
+                                "span",
+                                "a-offscreen"
+                        ],
+                        [
+                                "Ratings",
+                                "span",
+                                "a-icon a-icon-star a-star-4-5"
+                        ]
+                ],
+                "Store": "Amazon",
+                "item_len": 10,
+                "Category": "Trouser",
+                "Gender": "Men"
+        }
+]
